@@ -1,7 +1,5 @@
 ﻿using System;
 
-//Suma de todos los comprendidos de x a y --> suma enre 5 a 9 = 5+6+7+8+9
-
 int num1, num2, suma = 0;
 
 Console.WriteLine("Ingrese el primer número");
